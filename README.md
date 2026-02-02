@@ -19,7 +19,7 @@
   <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="250">
 </picture>
 
-- 🎓 D3 **Managenemt Informatic**
+- 🎓 D3 **Informatic Management**
 - 💻 Focus on **Web Development**
 - 🔥 Currently learning **Laravel & CodeIgniter**
 - 🎨 Interested in **Frontend Development**
