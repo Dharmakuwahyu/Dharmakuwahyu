@@ -19,7 +19,7 @@
   <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="250">
 </picture>
 
-- 🎓 D3 **Manajemen Informatika**
+- 🎓 D3 **Managenemt Informatic**
 - 💻 Focus on **Web Development**
 - 🔥 Currently learning **Laravel & CodeIgniter**
 - 🎨 Interested in **Frontend Development**
@@ -63,13 +63,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=plastic&logo=codeigniter&logoColor=white"/>
-</p>
-
-### 🧩 Competitive Programming & Problem Solving
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white"/>
 </p>
 
 ### 🖥️ Operating Systems
