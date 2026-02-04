@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Time+New+Roman&size=25&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=700&lines=D3+Informatics+Management+Student;Web+Development+Enthusiast;Laravel+%26+CodeIgniter+Learner;Frontend+%26+Backend+Explorer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Time+New+Roman&size=25&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=700&lines=D3+Informatics+Management+Student;Full-Stack+Web+Development+Learner;Experienced+with+Laravel%2C+CodeIgniter+%26+Bootstrap;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
@@ -57,7 +57,9 @@
   <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-### 🚀 Frameworks
+### <picture>
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Frameworks.gif" width="50">
+</picture> Frameworks
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white"/>
@@ -65,11 +67,14 @@
   <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=plastic&logo=bootstrap&logoColor=white"/>
 </p>
 
-### 🖥️ Operating Systems
+### <picture>
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/OS.gif" width="50">
+</picture> Operating Systems
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=plastic&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=plastic&logo=ubuntu&logoColor=white"/>
 </p>
 
 ---
