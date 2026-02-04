@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-### <picture><img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Software_Tools.gif" width="50"></picture> Frameworks
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white"/>
@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=plastic&logo=bootstrap&logoColor=white"/>
 </p>
 
-### <picture><img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Software_Tools.gif" width="50"></picture> Operating Systems
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=plastic&logo=Windows&logoColor=white"/>
@@ -97,4 +97,10 @@
   <a href="https://www.instagram.com/kusumawahyudharma">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white"/>
   </a>
+</p>
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
