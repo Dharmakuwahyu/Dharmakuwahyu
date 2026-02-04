@@ -19,10 +19,9 @@
   <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="250">
 </picture>
 
-- 🎓 D3 **Informatic Management**
+- 🎓 D3 **Informatics Management**
 - 💻 Focus on **Web Development**
-- 🔥 Currently learning **Laravel & CodeIgniter**
-- 🎨 Interested in **Frontend Development**
+- 🎨 Interested in **Full-Stack Development (Frontend & Backend)**
 - 🧠 Love **Problem Solving & Logic**
 - 🎸 Hobby: **Playing Guitar**
 - 📚 Principle: *Consistency beats talent*
@@ -60,9 +59,15 @@
 
 ### 🚀 Frameworks
 
+#### 🧠 Backend Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=plastic&logo=codeigniter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+</p>
+
+#### 🎨 Frontend Frameworks & UI
+<p align="center">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
 ### 🖥️ Operating Systems
