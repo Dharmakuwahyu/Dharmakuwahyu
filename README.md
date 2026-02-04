@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Time+New+Roman&size=25&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=700&lines=D3+Informatics+Management+Student;Full-Stack+Web+Development+Learner;Experienced+with+Laravel%2C+CodeIgniter+%26+Bootstrap;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Time+New+Roman&size=25&duration=3500&pause=300&color=%23C8BE25&center=true&vCenter=true&width=700&lines=D3+Informatics+Management+Student;Full-Stack+Web+Development+Learner;Experienced+with+Laravel%2C+CodeIgniter+%26+Bootstrap;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
