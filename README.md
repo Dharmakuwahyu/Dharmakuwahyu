@@ -59,15 +59,10 @@
 
 ### 🚀 Frameworks
 
-#### 🧠 Backend Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
-</p>
-
-#### 🎨 Frontend Frameworks & UI
-<p align="center">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=plastic&logo=codeigniter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=plastic&logo=bootstrap&logoColor=white"/>
 </p>
 
 ### 🖥️ Operating Systems
@@ -110,16 +105,16 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="dharmawahyu228@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Dharmakuwahyu">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/wahyu-dharma">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com">
+  <a href="https://www.instagram.com/kusumawahyudharma">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white"/>
   </a>
 </p>
